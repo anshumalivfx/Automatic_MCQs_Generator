@@ -1,0 +1,304 @@
+sno,question,a,b,c,d,answer,level,ref
+1,A class is made abstract by declaring at least one of its functions as?,impure virtual function,pure virtual function,pure abstract function,impure abstract function,b,easy,https://letsfindcourse.com/technical-questions/cplusplus/abstract-classes-mcq-in-cplusplus
+2,A pure virtual function is specified by placing?,1,0,1,infinite,b,easy,https://letsfindcourse.com/technical-questions/cplusplus/abstract-classes-mcq-in-cplusplus
+3,Classes that can be used to instantiate objects are called?,concrete classes,interface,abstract class,None of the above,a,easy,https://letsfindcourse.com/technical-questions/cplusplus/abstract-classes-mcq-in-cplusplus
+4,Which of the following is true?,The C++ interfaces are implemented using abstract classes,The purpose of an abstract class is to provide an appropriate base class from which other classes can inherit., Abstract classes cannot be used to instantiate objects and serves only as an interface.,All of the above,d,easy,https://letsfindcourse.com/technical-questions/cplusplus/abstract-classes-mcq-in-cplusplus
+5,Where does the abstract class is used?,base class only,derived class,both derived & base class,virtual class,a,easy,https://letsfindcourse.com/technical-questions/cplusplus/abstract-classes-mcq-in-cplusplus
+6,Which class is used to design the base class?,abstract class,derived class,base class,derived & base class,a,easy,https://letsfindcourse.com/technical-questions/cplusplus/abstract-classes-mcq-in-cplusplus
+7,We cannot make an instance of an abstract base class,1,,Can be true and false,Can not say,a,easy,https://letsfindcourse.com/technical-questions/cplusplus/abstract-classes-mcq-in-cplusplus
+8,We can make an instance of an abstract super class,1,,Can be true and false,Can not say,b,easy,https://letsfindcourse.com/technical-questions/cplusplus/abstract-classes-mcq-in-cplusplus
+9,Which is the correct syntax of defining a pure virtual function?,pure virtual return_type func();,virtual return_type func() pure;,virtual return_type func() = 0;,virtual return_type func();,c,easy,https://letsfindcourse.com/technical-questions/cplusplus/abstract-classes-mcq-in-cplusplus
+10,Which is the correct statement about pure virtual functions?,They should be defined inside a base class,Pure keyword should be used to declare a pure virtual function,Pure virtual function is implemented in derived classes,Pure virtual function cannot implemented in derived classes,c,easy,https://letsfindcourse.com/technical-questions/cplusplus/abstract-classes-mcq-in-cplusplus
+11,Which among the following best defines abstraction?,Hiding the implementation,Showing the important data,Hiding the important data,Hiding the implementation and showing only the features,d,easy,https://www.sanfoundry.com/object-oriented-programming-questions-answers-abstraction/
+12,Hiding the implementation complexity can ____________,Make the programming easy,Make the programming complex,Provide more number of features,Provide better features,a,easy,https://www.sanfoundry.com/object-oriented-programming-questions-answers-abstraction/
+13,Class is _________ abstraction.,Object,Logical,Real,Hypothetical,b,easy,https://www.sanfoundry.com/object-oriented-programming-questions-answers-abstraction/
+14,Object is ________ abstraction.,Object,Logical,Real,Hypothetical,c,easy,https://www.sanfoundry.com/object-oriented-programming-questions-answers-abstraction/
+15,Abstraction gives higher degree of ________,Class usage,Program complexity,Idealized interface,Unstable interface,c,easy,https://www.sanfoundry.com/object-oriented-programming-questions-answers-abstraction/
+16,Abstraction can apply to ____________,Control and data,Only data,Only control,Classes,a,easy,https://www.sanfoundry.com/object-oriented-programming-questions-answers-abstraction/
+17,Which among the following can be viewed as combination of abstraction of data and code.,Class,Object,Inheritance,Interfaces,b,easy,https://www.sanfoundry.com/object-oriented-programming-questions-answers-abstraction/
+18,Abstraction principle includes___________,Use abstraction at its minimum,Use abstraction to avoid longer codes,Use abstraction whenever possible to avoid duplication,Use abstraction whenever possible to achieve OOP,c,easy,https://www.sanfoundry.com/object-oriented-programming-questions-answers-abstraction/
+19,"Higher the level of abstraction, higher are the details.",1,,,,b,easy,https://www.sanfoundry.com/object-oriented-programming-questions-answers-abstraction/
+20,Encapsulation and abstraction differ as ____________,Binding and Hiding respectively,Hiding and Binding respectively,Can be used any way,Hiding and hiding respectively,a,easy,https://www.sanfoundry.com/object-oriented-programming-questions-answers-abstraction/
+21,In terms of stream and files ____________,Abstraction is called a stream and device is called a file,Abstraction is called a file and device is called a stream,Abstraction can be called both file and stream,Abstraction can’t be defined in terms of files and stream,a,easy,https://www.sanfoundry.com/object-oriented-programming-questions-answers-abstraction/
+22, If two classes combine some private data members and provides public member functions to access and manipulate those data members. Where is abstraction used?,Using private access specifier for data members,Using class concept with both data members and member functions,Using public member functions to access and manipulate the data members,Data is not sufficient to decide what is being used,c,easy,https://www.sanfoundry.com/object-oriented-programming-questions-answers-abstraction/
+23," A phone is made up of many components like motherboard, camera, sensors and etc. If the processor represents all the functioning of phone, display shows the display only, and the phone is represented as a whole. Which among the following have highest level of abstraction?",Motherboard,Display,Camera,Phone,d,easy,https://www.sanfoundry.com/object-oriented-programming-questions-answers-abstraction/
+24,Which among the following is not a level of abstraction?,Logical level,Physical level,View level,External level,d,easy,https://www.sanfoundry.com/object-oriented-programming-questions-answers-abstraction/
+25,Using higher degree of abstraction __________,May get unsafe,May reduce readability,Can be safer,Can increase vulnerability,c,easy,https://www.sanfoundry.com/object-oriented-programming-questions-answers-abstraction/
+26,What is an abstract class in C++?,Class specifically used as a base class with atleast one virtual functions,Class specifically used as a base class with atleast one pure virtual functions,Class from which any class is derived,Any Class in C++ is an abstract class,b,easy,https://www.sanfoundry.com/object-oriented-programming-questions-answers-abstraction/
+27,What is a pure virtual function in C++?,A virtual function defined in a base class,A virtual function declared in a base class,Any function in a class,A function without definition in a base class,b,easy,https://www.sanfoundry.com/object-oriented-programming-questions-answers-abstraction/
+28,Which is the correct syntax of defining a pure virtual function?,pure virtual return_type func();,virtual return_type func() pure;,virtual return_type func() = 0;,virtual return_type func();,c,easy,https://www.sanfoundry.com/object-oriented-programming-questions-answers-abstraction/
+29,Which is the correct statement about pure virtual functions?,They should be defined inside a base class,Pure keyword should be used to declare a pure virtual function,Pure virtual function is implemented in derived classes,Pure virtual function cannot implemented in derived classes,c,easy,https://www.sanfoundry.com/object-oriented-programming-questions-answers-abstraction/
+30,Pick the correct statement.,Pure virtual functions and virtual functions are the same,Both Pure virtual function and virtual function have an implementation in the base class,Pure virtual function has no implementation in the base class whereas virtual function may have an implementation in the base class,The base class has no pure virtual function,c,easy,https://www.sanfoundry.com/object-oriented-programming-questions-answers-abstraction/
+31,"What will be the output of the following C++ code?
+
+#include <iostream>
+#include <string>
+using namespace std;
+class A
+{
+	int a;
+    public:
+	virtual void func() = 0;
+};
+ 
+class B: public A
+{
+   public:
+	void func(){
+		cout<<""Class B""<<endl;
+	}	
+};
+ 
+int main(int argc, char const *argv[])
+{
+	B b;
+	b.func();
+	return 0;
+}",Class B,Error,Segmentation fault,No output,a,medium,https://www.sanfoundry.com/cplusplus-programming-questions-answers-abstract-classes-2/
+32,"Which of the following feature of OOPs is not used in the following C++ code?
+class A{
+    int i;
+    public:
+    void print() {cout << ""hello"" << i;}
+}
+class B : public A{
+    int j;
+    public:
+    void assign (int a ) {k = a;}
+}",Abstraction,Encapsulation,Inheritance,Polymorphism,d,medium,https://www.algbly.com/More/MCQs/Cpp-mcq/Cpp-oops-concept.html
+33," What will be the output of the following C++ code?
+
+    #include <iostream>
+    using namespace std;
+    class p 
+    {
+        protected:
+        int width, height;
+        public:
+        void set_values (int a, int b)
+        {
+            width = a; height = b; 
+        }
+        virtual int area (void) = 0;
+    };
+    class r: public p
+    {
+        public:
+        int area (void)
+        { 
+            return (width * height);
+        }
+    };
+    class t: public p 
+    {
+        public:
+        int area (void)
+        {
+            return (width * height / 2); 
+        }
+    };
+    int main () 
+    {
+        r rect;
+        t trgl;
+        p * ppoly1 = &rect;
+        p * ppoly2 = &trgl;
+        ppoly1->set_values (4, 5);
+        ppoly2->set_values (4, 5);
+        cout << ppoly1 -> area() ;
+        cout << ppoly2 -> area();
+        return 0;
+    ",1020,20,10,2010,d,medium,https://www.algbly.com/More/MCQs/Cpp-mcq/Cpp-oops-concept.html
+34,"What will be the output of the following C++ code?
+
+    #include <iostream>
+    using namespace std;
+    class MyInterface 
+    {
+        public:
+        virtual void Display() = 0;
+    };
+    class Class1 : public MyInterface 
+    {
+        public:
+        void Display() 
+        {
+            int  a = 5;
+            cout << a;
+        }
+    };
+    class Class2 : public MyInterface 
+    {
+        public:
+        void Display()
+        {
+            cout <<"" 5"" << endl;
+        }
+    };
+    int main()
+    {
+        Class1 obj1;
+        obj1.Display();
+        Class2 obj2;
+        obj2.Display();
+        return 0;
+    }",5,10,5 5,15,c,medium,https://www.sanfoundry.com/interview-questions-c-plus-plus-abstract-classes/
+35,"What will be the output of the following C++ code?
+
+    #include <iostream>
+    using namespace std;
+    class sample
+    {
+        public:
+        virtual void example() = 0; 
+    };
+    class Ex1:public sample
+    {
+        public:
+        void example()
+        {
+            cout << ""ubuntu"";
+        }
+    };
+    class Ex2:public sample
+    {
+        public:
+        void example()
+        {
+            cout << "" is awesome"";
+        }
+    };
+    int main()
+    {
+        sample* arra[2];
+        Ex1 e1;
+        Ex2 e2;
+        arra[0]=&e1;
+        arra[1]=&e2;
+        arra[0]->example();
+        arra[1]->example();
+    }",ubuntu,is awesome,ubuntu is awesome,ubunt esome,c,medium,https://www.sanfoundry.com/interview-questions-c-plus-plus-abstract-classes/
+36,"What will be the output of the following C++ code?
+
+    #include <iostream>
+    using namespace std;
+    class Base
+    {
+        public:
+        virtual void print() const = 0;
+    };
+    class DerivedOne : virtual public Base
+    {
+        public:
+        void print() const
+        {
+            cout << ""1"";
+        }
+    };
+    class DerivedTwo : virtual public Base
+    {
+        public:
+        void print() const
+        {
+            cout << ""2"";
+        }
+    };
+    class Multiple : public DerivedOne, DerivedTwo
+    {
+        public:
+        void print() const
+        {
+            DerivedTwo::print();
+        }
+    };
+    int main()
+    {
+        Multiple both;
+        DerivedOne one;
+        DerivedTwo two;
+        Base *array[ 3 ];
+        array[ 0 ] = &both;
+        array[ 1 ] = &one;
+        array[ 2 ] = &two;
+        for ( int i = 0; i < 3; i++ )
+        array[ i ] -> print();
+        return 0;
+    }",121,212,12,215,b,medium,https://www.sanfoundry.com/interview-questions-c-plus-plus-abstract-classes/
+37,What is meant by pure virtual function?,Function which does not have definition of its own,Function which does have definition of its own,Function which does not have any return type,Function which does not have any return type & own definition,a,medium,https://www.sanfoundry.com/interview-questions-c-plus-plus-abstract-classes/
+38,Pick out the correct option.,We cannot make an instance of an abstract base class,We can make an instance of an abstract base class,We can make an instance of an abstract super class,We can make an instance of an abstract derived class,a,medium,https://www.sanfoundry.com/interview-questions-c-plus-plus-abstract-classes/
+39,Where does the abstract class is used?,base class only,derived class,both derived & base class,virtual class,a,medium,https://www.sanfoundry.com/interview-questions-c-plus-plus-abstract-classes/
+40,"In C++, which access specifier is used to implement abstraction?",public,private,protected,friend,b,medium,https://chat.openai.com/
+41,What is the purpose of abstraction in C++?,To make code run faster,To make code easier to read,To hide unnecessary details and focus on essential features,To eliminate the need for comments,c,medium,https://chat.openai.com/
+42,Which of the following is an example of abstraction?,Creating an object of a class,Defining a variable,Declaring a function,Writing a loop,a,medium,https://chat.openai.com/
+43,Which feature of C++ allows you to achieve abstraction by creating user-defined types?,Pointers,References,Classes,Templates,c,medium,https://chat.openai.com/
+44,Which keyword is used to declare a pure virtual function in C++?,pure,virtual,abstract,override,b,medium,https://chat.openai.com/
+45,Which of the following is true about abstract classes in C++?,Abstract classes cannot have any member functions.,Objects cannot be created from abstract classes.,Abstract classes can be instantiated.,Abstract classes cannot have constructors.,b,medium,https://chat.openai.com/
+46,Which of the following is an advantage of using abstract classes in C++?,Abstract classes can be used as base classes.,Abstract classes have faster execution time.,Abstract classes do not support inheritance.,Abstract classes have a smaller memory footprint.,a,medium,https://chat.openai.com/
+47,How can you achieve abstraction using inheritance in C++?,By declaring functions as pure virtual in the base class,By making the base class private,"By using the ""abstract"" keyword in the derived class",Abstraction cannot be achieved using inheritance,a,medium,https://chat.openai.com/
+48,Which of the following is a correct way to achieve abstraction in C++?,Declaring all member functions as public,Declaring all member functions as private,Declaring all member functions as protected,Declaring some member functions as public and others as private,d,medium,https://chat.openai.com/
+49,What happens when a pure virtual function is not implemented in a derived class?,The program throws an error during compilation.,The program throws an error during runtime.,The program executes successfully.,The program enters an infinite loop.,a,medium,https://chat.openai.com/
+50,Which of the following is an example of abstraction in the C++ Standard Template Library (STL)?,Vector,List,Map,All of the above,d,medium,https://chat.openai.com/
+51,Which feature of C++ allows you to achieve abstraction by providing a generic implementation for different data types?,Templates,Inheritance,Polymorphism,Polymorphism,a,medium,https://chat.openai.com/
+52,"What is the output of the following code snippet? class Base {
+public:
+    virtual void display() = 0;
+};
+
+class Derived : public Base {
+public:
+    void display() {
+        cout << ""Derived class"" << endl;
+    }
+};
+
+int main() {
+    Base* obj = new Derived();
+    obj->display();
+    return 0;
+}","""Base class""","""Derived class""",Compiler error,Runtime error,b,medium,https://chat.openai.com/
+53,Which of the following is true about abstract classes in C++?,Abstract classes cannot be inherited.,Abstract classes can have both concrete and abstract member functions.,Abstract classes can be instantiated.,"Abstract classes are defined using the ""abstract"" keyword.",b,medium,https://chat.openai.com/
+54,"In C++, which keyword is used to achieve data abstraction?",abstract,virtual,class,new,c,medium,https://chat.openai.com/
+55,Which of the following is true about pure virtual functions in C++?,Pure virtual functions have a definition in the base class.,Pure virtual functions must be implemented in the derived class.,Pure virtual functions cannot be overridden.,Pure virtual functions cannot have parameters.,b,medium,https://chat.openai.com/
+56,Which of the following is an example of abstraction in C++?,Creating an object of a class,Accessing a private member variable,Calling a member function,Declaring a global variable,c,medium,https://chat.openai.com/
+57,Which of the following statements best defines abstraction in C++?,It is a process of hiding data members.,It is a process of creating objects.,It is a process of hiding implementation details and providing a simplified interface.,It is a process of defining classes and objects.,c,medium,https://chat.openai.com/
+58,How is abstraction achieved in C++?,By using access specifiers,By using inheritance,By using virtual functions,By using abstract classes,c,medium,https://chat.openai.com/
+59,Which keyword is used to declare a pure virtual function in C++? ,pure,virtual,abstract,override,a,medium,https://chat.openai.com/
+60,Can an abstract class have non-virtual member functions?,Yes,No,,,a,medium,https://chat.openai.com/
+61,Which of the following is an example of abstraction in C++?,Encapsulation,Polymorphism,Inheritance,All of the above,d,medium,https://chat.openai.com/
+62,"What happens if an abstract class is inherited, but the pure virtual function is not overridden in the derived class? ",The program fails to compile.,The program compiles but throws an error at runtime.,The program compiles and runs without any errors.,The program enters an infinite loop.,b,medium,https://chat.openai.com/
+63,Which access specifier is used to achieve strong abstraction in C++?,public,private,protected,friend,b,medium,https://chat.openai.com/
+64,Which of the following is an advantage of using abstract classes in C++?,Objects can be created from abstract classes.,Abstract classes have faster execution time.,Abstract classes can be used as base classes.,Abstract classes have a smaller memory footprint.,c,medium,https://chat.openai.com/
+65,How do abstract classes differ from concrete classes in C++?,Abstract classes cannot have constructors.,Abstract classes cannot have member variables.,Abstract classes cannot have member functions.,Abstract classes cannot be instantiated.,d,medium,https://chat.openai.com/
+66,What is the purpose of a pure virtual function in an abstract class? ,To provide a default implementation.,To force derived classes to provide their own implementation.,To prevent derived classes from inheriting the function.,To make the function non-overridable.,b,medium,https://chat.openai.com/
+67,Which of the following statements is true about pure virtual functions in C++?,They must be defined in the abstract class.,"They must be declared with the ""virtual"" keyword.",They must be implemented in the derived classes.,They cannot have a return type.,c,medium,https://chat.openai.com/
+68,Which feature of C++ allows you to achieve abstraction by providing a generic implementation for different data types?,Templates,Inheritance,Polymorphism,Pointers,a,medium,https://chat.openai.com/
+69,Which among the following best defines abstraction in C++? ,Hiding the implementation and showing only the features,Showing the important data and hiding the irrelevant data,Hiding the implementation complexity and providing an idealized interface,All of the above,d,hard,https://www.bing.com/search?form=MY0291&OCID=MY0291&q=Bing+AI&showconv=1&sydconv=1
+70,Which among the following is a type of abstraction in C++?,Data abstraction,Control abstraction,Both a and b,None of the above,c,hard,https://www.bing.com/search?form=MY0291&OCID=MY0291&q=Bing+AI&showconv=1&sydconv=2
+71,Which among the following is an example of data abstraction in C++?,Class,Object,Header file,All of the above,d,hard,https://www.bing.com/search?form=MY0291&OCID=MY0291&q=Bing+AI&showconv=1&sydconv=3
+72,Which among the following is an example of control abstraction in C++? ,Function,Loop,Operator,All of the above,d,hard,https://www.bing.com/search?form=MY0291&OCID=MY0291&q=Bing+AI&showconv=1&sydconv=4
+73,Which among the following is a feature of abstraction in C++?,It makes the programming easy and less complex,It provides a higher degree of reusability and modularity,It hides the unnecessary details and shows only the essential information,All of the above,d,hard,https://www.bing.com/search?form=MY0291&OCID=MY0291&q=Bing+AI&showconv=1&sydconv=5
+74,Which among the following is a way to implement abstraction in C++ using classes?,Using private access specifier for data members,Using public member functions to access and manipulate the data members,Both a and b,None of the above,c,hard,https://www.bing.com/search?form=MY0291&OCID=MY0291&q=Bing+AI&showconv=1&sydconv=6
+75,Which among the following is a way to implement abstraction in C++ using header files? ,Using preprocessor directives to include header files in the program,Using pow() function from math.h header file to calculate power of numbers without knowing the algorithm,Both a and b,None of the above,b,hard,https://www.bing.com/search?form=MY0291&OCID=MY0291&q=Bing+AI&showconv=1&sydconv=7
+76,Which among the following is a principle of abstraction in C++?,Use abstraction whenever possible to avoid duplication and achieve OOP,Use abstraction at its minimum to avoid performance overheads and memory leaks,Use abstraction only when necessary to avoid confusion and complexity,None of the above,a,hard,https://www.bing.com/search?form=MY0291&OCID=MY0291&q=Bing+AI&showconv=1&sydconv=8
+77,Which among the following is true about abstraction in C++?,Higher level of abstraction means higher level of details,Lower level of abstraction means lower level of details,Higher level of abstraction means lower level of details, Lower level of abstraction means higher level of details,c,hard,https://www.bing.com/search?form=MY0291&OCID=MY0291&q=Bing+AI&showconv=1&sydconv=9
+78,Which among the following is a difference between encapsulation and abstraction in C++?,"Encapsulation is hiding data and code, while abstraction is hiding only data ","Encapsulation is hiding only code, while abstraction is hiding data and code ","Encapsulation is binding data and code, while abstraction is hiding data and code"," Encapsulation is hiding data and code, while abstraction is binding data and code",c,hard,https://www.bing.com/search?form=MY0291&OCID=MY0291&q=Bing+AI&showconv=1&sydconv=10
+79,Which among the following can be viewed as a combination of data and code abstraction in C++?,Class,Object,Inheritance,Interface,d,hard,https://www.bing.com/search?form=MY0291&OCID=MY0291&q=Bing+AI&showconv=1&sydconv=11
+80,Which among the following is not a level of abstraction in C++?,Logical level,Physical level,Conceptual level,Implementation level,d,hard,https://www.bing.com/search?form=MY0291&OCID=MY0291&q=Bing+AI&showconv=1&sydconv=12
+81,"In terms of stream and files, which among the following is true about abstraction in C++?",Abstraction is called a stream and device is called a file,Abstraction is called a file and device is called a stream,Abstraction can be called both file and stream,Abstraction can’t be defined in terms of files and stream,d,hard,https://www.bing.com/search?form=MY0291&OCID=MY0291&q=Bing+AI&showconv=1&sydconv=13
+82,What is an abstract class in C++?,Class specifically used as a base class with at least one virtual function,Class specifically used as a base class with at least one pure virtual function ,Class from which any class can be derived,Class that can’t be instantiated,b,hard,https://www.bing.com/search?form=MY0291&OCID=MY0291&q=Bing+AI&showconv=1&sydconv=14
+83,What is a pure virtual function in C++?,A virtual function that has no definition ,A virtual function that has a definition but is prefixed with the keyword pure,A virtual function that has no definition and is assigned to 0,A virtual function that has a definition and is assigned to 0,c,hard,https://www.bing.com/search?form=MY0291&OCID=MY0291&q=Bing+AI&showconv=1&sydconv=15
+84,What is the syntax of declaring a pure virtual function in C++?,virtual void func() = 0; ,pure virtual void func(); ,virtual void func() pure;,pure void func() virtual;,a,hard,https://www.bing.com/search?form=MY0291&OCID=MY0291&q=Bing+AI&showconv=1&sydconv=16
+85,What is the effect of declaring a pure virtual function in a class in C++?,The class becomes an abstract class and can’t be instantiated ,The class becomes a concrete class and can be instantiated,The class becomes a final class and can’t be inherited,The class becomes a base class and can be inherited,a,hard,https://www.bing.com/search?form=MY0291&OCID=MY0291&q=Bing+AI&showconv=1&sydconv=17
+86,What is the purpose of declaring a pure virtual function in a class in C++?,To force the derived classes to override the function,To provide a common interface for the derived classes,To achieve runtime polymorphism through dynamic binding,All of the above,d,hard,https://www.bing.com/search?form=MY0291&OCID=MY0291&q=Bing+AI&showconv=1&sydconv=18
+87,Which among the following is true about abstract classes in C++? ,An abstract class can have both pure virtual and non-pure virtual functions, An abstract class can have both pure virtual and normal functions,An abstract class can have only pure virtual functions,Both a and b,d,hard,https://www.bing.com/search?form=MY0291&OCID=MY0291&q=Bing+AI&showconv=1&sydconv=19
+88,Which among the following is false about abstract classes in C++?,An abstract class can have constructors and destructors,An abstract class can have data members and member functions,An abstract class can have static members and static functions,An abstract class can’t have any members or functions,d,hard,https://www.bing.com/search?form=MY0291&OCID=MY0291&q=Bing+AI&showconv=1&sydconv=20
+89,Which among the following is true about constructors and destructors of abstract classes in C++?,They are not allowed in abstract classes as they can’t be instantiated,They are allowed in abstract classes as they are called by the derived classes,They are allowed in abstract classes as they are used to initialize and destroy the data members of the abstract classes,Both b and c,d,hard,https://www.bing.com/search?form=MY0291&OCID=MY0291&q=Bing+AI&showconv=1&sydconv=21
+90,Which among the following is true about inheritance of abstract classes in C++?,A derived class can inherit from an abstract class only if it defines all the pure virtual functions of the base class,A derived class can inherit from an abstract class even if it doesn’t define any of the pure virtual functions of the base class,A derived class that inherits from an abstract class and doesn’t define all the pure virtual functions of the base class becomes an abstract class itself,Both b and c,d,hard,https://www.bing.com/search?form=MY0291&OCID=MY0291&q=Bing+AI&showconv=1&sydconv=22
+91,Which among the following is false about inheritance of abstract classes in C++?,A derived class that inherits from an abstract class and defines all the pure virtual functions of the base class becomes a concrete class,A derived class that inherits from an abstract class and defines some but not all of the pure virtual functions of the base class becomes a concrete class ,A derived class that inherits from an abstract class can override both pure virtual and non-pure virtual functions of the base class,A derived class that inherits from an abstract class can access both public and protected members of the base class,b,hard,https://www.bing.com/search?form=MY0291&OCID=MY0291&q=Bing+AI&showconv=1&sydconv=23
+92,Which among the following is true about polymorphism with abstract classes in C++?, A pointer or reference of an abstract class type can point or refer to an object of a concrete derived class,A pointer or reference of an abstract class type can invoke the overridden functions of the derived classes at runtime,Both a and b,None of the above,c,hard,https://www.bing.com/search?form=MY0291&OCID=MY0291&q=Bing+AI&showconv=1&sydconv=24
+93,Which among the following is false about polymorphism with abstract classes in C++?,A pointer or reference of an abstract class type can invoke any function of the derived classes at runtime,A pointer or reference of an abstract class type can’t invoke any function of the base class at runtime,Both a and b,None of the above,c,hard,https://www.bing.com/search?form=MY0291&OCID=MY0291&q=Bing+AI&showconv=1&sydconv=25
+94,Which among the following is an advantage of using abstract classes in C++?,They provide a common interface for different types of objects,They enable code reusability and maintainability,They support dynamic binding and runtime polymorphism ,All of the above,d,hard,https://www.bing.com/search?form=MY0291&OCID=MY0291&q=Bing+AI&showconv=1&sydconv=26
+95,Which among the following is a disadvantage of using abstract classes in C++? ,They increase the complexity and overheads of inheritance hierarchy,They require more memory and processing time for dynamic binding,They restrict multiple inheritance as only one base class can be abstract,All of the above,c,hard,https://www.bing.com/search?form=MY0291&OCID=MY0291&q=Bing+AI&showconv=1&sydconv=27
+96,Which among the following is a difference between abstract classes and interfaces in C++? ,"Abstract classes can have both pure virtual and normal functions, while interfaces can have only pure virtual functions","Abstract classes can have data members and member functions, while interfaces can have only static constants and static functions","Abstract classes can have constructors and destructors, while interfaces can’t have any constructors or destructors",All of the above,d,hard,https://www.bing.com/search?form=MY0291&OCID=MY0291&q=Bing+AI&showconv=1&sydconv=28
+97,Which among the following is a similarity between abstract classes and interfaces in C++? ,Both are used to achieve abstraction and polymorphism,Both can’t be instantiated and require derived classes to implement their pure virtual functions,Both can be used as base classes for multiple inheritance,All of the above,d,hard,https://www.bing.com/search?form=MY0291&OCID=MY0291&q=Bing+AI&showconv=1&sydconv=29
+98,Which among the following is a scenario where abstract classes are preferred over interfaces in C++?,When there is a need to provide a common interface for different types of objects,When there is a need to provide some default implementation for some functions,When there is a need to support multiple inheritance with different base classes,None of the above,b,hard,https://www.bing.com/search?form=MY0291&OCID=MY0291&q=Bing+AI&showconv=1&sydconv=30

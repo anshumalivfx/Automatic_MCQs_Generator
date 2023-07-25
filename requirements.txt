@@ -1,0 +1,6 @@
+pandas
+regex
+parrot
+jinja2
+pdfkit
+tkinter
