@@ -4,3 +4,4 @@ parrot
 jinja2
 pdfkit
 tkinter
+transformers
