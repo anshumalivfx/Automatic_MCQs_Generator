@@ -3,7 +3,7 @@ from pandas import DataFrame
 import re
 import random
 import string
-from parrot import Parrot
+from parrot.parrot import Parrot
 
 
 parrot = Parrot(model_tag="prithivida/parrot_paraphraser_on_T5", use_gpu=False)
